@@ -66,7 +66,7 @@ The following texts and Web sites may provide useful references for terms, peopl
 
 1.  Oxford Music Online/Grove Music Online
 2.  [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262680820) Roads, C. [_The Computer Music Tutorial_](https://mitpress.mit.edu/9780262680820). Cambridge, MA: MIT Press, 1996. ISBN: 9780262680820.
-3.  Crab, S. "[120 Years Of Electronic Music (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.mathieubosi.com/zikprojects/120YearsOfElectronicMusic.pdf)."
+3.  Crab, S. "[120 Years Of Electronic Music (PDF)](http://www.mathieubosi.com/zikprojects/120YearsOfElectronicMusic.pdf)."
 4.  Stolet, J., et al. "[Electronic Music Interactive v2](https://pages.uoregon.edu/emi/17.php)." University of Oregon, 2009.
 
 Coursework

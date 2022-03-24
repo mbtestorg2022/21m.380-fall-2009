@@ -59,7 +59,7 @@ Music and music technology
 The science and visualization of sound
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB]({{< baseurl >}}/resources/mit21m_380f09_lec02))
+([PDF - 1.5MB]({{< baseurl >}}/resources/mit21m_380f09_lec02))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -221,7 +221,7 @@ Electronic and electromagnetic instruments
 Discussion and workshop
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_380f09_lec12))
+([PDF]({{< baseurl >}}/resources/mit21m_380f09_lec12))
 {{< tdclose >}}
 {{< tdopen >}}
 [Video 1]({{< baseurl >}}/pages/lecture-notes-and-videos/videos/lecture-12-discussion)  
@@ -237,7 +237,7 @@ Discussion and workshop
 Modular synthesizers
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.0MB]({{< baseurl >}}/resources/mit21m_380f09_lec13))
+([PDF - 6.0MB]({{< baseurl >}}/resources/mit21m_380f09_lec13))
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/pages/lecture-notes-and-videos/videos/lecture-13-modular-synthesizers)
@@ -267,7 +267,7 @@ Sequencers, rhythm machines, and samplers
 Discussion and workshop
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB]({{< baseurl >}}/resources/mit21m_380f09_lec15))
+([PDF - 1.3MB]({{< baseurl >}}/resources/mit21m_380f09_lec15))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -312,7 +312,7 @@ Live electronics and circuit bending
 Discussion and workshop
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_380f09_lec18))
+([PDF]({{< baseurl >}}/resources/mit21m_380f09_lec18))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -378,7 +378,7 @@ Synthesis with code
 Discussion and workshop
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21m_380f09_lec22))
+([PDF]({{< baseurl >}}/resources/mit21m_380f09_lec22))
 {{< tdclose >}}
 {{< tdopen >}}
  

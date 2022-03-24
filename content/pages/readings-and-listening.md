@@ -219,7 +219,7 @@ In \[Holmes\]:
 \- "The Microprocessor Revolution (1975-90)," pp. 271-293.  
 \- "The Principles of Computer Music," pp. 294-318.
 
-Sterne, J. "The mp3 as Cultural Artifact." _New Media & Society_ 8, no. 5 (2006): 825-842. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://sterneworks.org/mp3.pdf))
+Sterne, J. "The mp3 as Cultural Artifact." _New Media & Society_ 8, no. 5 (2006): 825-842. ([PDF](http://sterneworks.org/mp3.pdf))
 
 
 {{< tdclose >}}
@@ -246,7 +246,7 @@ Processing audio and the modern recording studio
 
 Horning, S. S. (Braun). "From Polka to Punk: Growth of an Independent Recording Studio, 1934-1977." In \[Braun\], pp. 136-145.
 
-Nielsen, S. H., and T. Lund. "Overload in Signal Conversion." _AES 23rd International Conference._ 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://service.tcgroup.tc/media/nielsen_lund_2003_overload.pdf))
+Nielsen, S. H., and T. Lund. "Overload in Signal Conversion." _AES 23rd International Conference._ 2003. ([PDF](http://service.tcgroup.tc/media/nielsen_lund_2003_overload.pdf))
 
 
 {{< tdclose >}}
@@ -409,7 +409,7 @@ Discussion and workshop
 {{< tdopen >}}
 
 
-Bimber, B. "Karl Marx and the Three Faces of Technological Determinism." _Social Studies of Science_ 20, no. 2 (1990): 333-351. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/sts/pubs/pdfs/MIT_STS_WorkingPaper_11_Bimber_2.pdf))
+Bimber, B. "Karl Marx and the Three Faces of Technological Determinism." _Social Studies of Science_ 20, no. 2 (1990): 333-351. ([PDF](http://web.mit.edu/sts/pubs/pdfs/MIT_STS_WorkingPaper_11_Bimber_2.pdf))
 
 In \[Collins\]:  
 \- "The World's Simplest Circuit: Six Oscillators on a Chip, Guranteed to Work (pp. 129-145)  
